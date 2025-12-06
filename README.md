@@ -4,9 +4,9 @@ I'm a first year graduate student in **Quantitative Methods in the Social Scienc
 
 ## Academic Interests
 
-- **Causal inference and Field experiments** — understanding not just what works, but why and for whom.
-- **Climate Economics**- specifically examining the intersection of environmental science and economics.
-- **Poverty and Inequality** — social protection programs, targeting, and behavioral interventions
+- **Causal inference and Field experiments**
+- **Climate & Development** - climate impacts on vulnerable populations, adaptation policy
+- **Gender & Education** - education interventions, gender equity, human capital
 
 ## Background
 
