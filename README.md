@@ -13,9 +13,8 @@ I'm a first year graduate student in **Quantitative Methods in the Social Scienc
 Before grad school, I work as data analyst where I:
 
 - Designed and analyzed **A/B tests and experiments** for product optimization
-- Built **causal inference models** for pricing optimization using uplift modeling
-- Developed **fraud detection models** that reduced verification costs by 49% while maintaining precision
-- Created automated data pipelines and dashboards serving cross-functional teams using Tableau and Looker
+- Built **predictive models** for revenue optimization, user engagement, and fraud detection
+- Created automated data pipelines and dashboards serving cross-functional teams using Tableau and Looker.
 
 ## Technical Skills
 
@@ -28,8 +27,8 @@ Before grad school, I work as data analyst where I:
 
 ## Coursework
 
-- Applied Regression and Causal Inference 
-- Field Experiments
-- Development Economics
-- Quantitative Theory and Methodology in Social Science
-- Research Seminar
+- [Applied Regression and Causal Inference](https://doc.sis.columbia.edu/subj/POLS/W4720-20253-001/)
+- [Field Experiments](https://doc.sis.columbia.edu/subj/POLS/W4724-20253-001/)
+- [Economic Development](https://doc.sis.columbia.edu/subj/ECON/W4321-20253-001/)
+- [Quantitative Theory and Methodology in Social Science](https://ftp.columbia.edu/cu/bulletin/uwb/subj/QMSS/G5010-20253-007/)
+- [Research Seminar](https://doc.sis.columbia.edu/subj/QMSS/GR5021-20253-001/)
